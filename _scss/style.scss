@@ -1,0 +1,93 @@
+$light-blue: #abc0c0;
+
+body {
+  background-color: $light-blue;
+  font-family: arial, helvetica;
+}
+
+$width: 960px;
+
+.wrapper, .footer {
+  background-color: white;
+  color: #333;
+  width: $width;
+  margin: 0 auto;
+  border-top: 1px solid $light-blue;
+}
+
+.footer {
+  font-size: 11px;
+  text-align: center;
+  padding: 4px 0;
+}
+
+.wrapper {
+  $nav-width: 180px;
+  margin: 0 auto;
+
+  overflow: hidden;
+
+  .nav {
+    width: $nav-width;
+  }
+  .content {
+    min-height: 330px;
+    width: $width - $nav-width - 40px;
+    border-left: 1px solid $light-blue;
+    padding: 0 15px;
+    h2 {
+      font-family: impact;
+      font-size: 22px;
+      color: #ABC0C0;
+    }
+  }
+  .nav, .content {
+    float: left;
+  }
+}
+
+.nav {
+  font-size: 11px;
+  font-weight: bold;
+  ul {
+    font-weight: bold;
+    list-style-type:none;
+    margin: 0;
+    padding: 5px;
+  }
+}
+
+a {
+  text-decoration: none;
+  color: #AB3300;
+  &:hover {
+    color: #ABC0C0;
+  }
+}
+
+ul.officers {
+  margin: 0;
+  padding: 0;
+  list-style-type:none;
+  overflow: hidden;
+
+  em {
+    display: block;
+    font-weight: bold;
+    font-style: normal;
+  }
+  li {
+    margin: 0 0 0 20px;
+    padding: 0;
+    float: left;
+  }
+}
+
+.post {
+  h3 {
+    margin-bottom: 0;
+  }
+  .date {
+    font-size: 13px;
+  }  
+}

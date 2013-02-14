@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<h2>CALENDAR</h2>
+<p>
+  The next scheduled meeting
+  <b>Wednesday March 13, 2013, 7:00pm</b> at First Congregational Church, <a href='https://maps.google.com/?q=1300+Polk+Street,+San Francisco,+CA'>1300 Polk Street, San Francisco</a> at the corner of Polk and Bush streets.
+</p>
+<p>
+  Lower Polk Neighbors meets regularly at 7:00pm on the second wednesday of each month.
+</p>
+
+<h2>COMMUNITY UPDATES</h2>
+{% for post in site.posts %}
+  <div class='post'>
+  <h3>{{ post.title}}</h3>
+  <div class='date'>
+  <a href="{{ post.url }}">posted {{post.date|date_to_long_string}}</a>
+  </div>
+
+  {{ post.content }}
+  </div>
+  <hr>
+{% endfor %}

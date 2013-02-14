@@ -1,0 +1,48 @@
+---
+layout: default
+---
+## BY-LAWS OF LOWER POLK NEIGHBORS, A NOT-FOR-PROFIT CORPORATION 
+
+#### Article I. ORGANIZATION.
+1. The name of the organization shall be LOWER POLK NEIGHBORS.
+2. The organization shall have a LOGO which shall be in the following form: RED SQUARE WITH REVERSED LPN INITIALS WITHIN THE LOWER QUADRANT OF THE SQUARE.
+3. The organization may at its pleasure by a vote of the membership body change its name. 
+
+#### Article II. PURPOSES.
+The following are the purposes for which this organization has been organized: TO BEAUTIFY, HELP CLEAN, AND MAKE SAFE THE LOWER POLK NEIGHBORHOOD LOCATED IN THE HEART OF DOWNTOWN SAN FRANCISCO. 
+
+#### Article III. MEMBERSHIP.
+Membership in this organization shall be open to all who LIVE, WORK, VISIT AND ARE INTERESTED IN THIS NEIGHBORHOOD. 
+
+#### Article IV. MEETINGS.
+The annual membership meeting of this organization shall be held on the SECOND TUESDAY [changed to Wednesday February 8, 2011] of each MONTH OF THE year except if such day be a legal holiday, then and in that event, the Board of Directors shall fix the day but it shall not be more than two weeks from the date fixed by these By-Laws. The Secretary shall cause to be mailed, WHETHER BY EMAIL OR US MAIL, to every member in good standing at his address as it appears in the membership roll book in this organization a notice telling the time and place of such annual meeting. Regular meetings of this organization shall be held AT LOCAL MERCHANTS' PLACES OF BUSINESS OR OTHER APPROPRIATELY SIZED AND LOCATED MEETING ROOMS. The presence of not less than fifty ( 50%) percent of the members shall constitute a quorum and shall be necessary to conduct the business of this organization; but a lesser percentage may adjourn the meeting for a period of not more than four [4] weeks from the date scheduled by these By-Laws and the secretary shall cause a notice of this scheduled meeting to be sent to all those members who were not present at the meeting originally called. A quorum as herein before set forth shall be required at any adjourned meeting. Special meetings of this organization may be called by the president when he deems it for the best interest of the organization. Notices of such meeting shall be mailed AND/OR EMAILED to all members at their addresses as they appear in the membership roll book at least ten (10) days before the scheduled date set for such special meeting. Such notice shall state the reasons that such meeting has been called, the business to be transacted at such meeting and by whom it was called. At the request of seventy five (75%) percent of the members of the Board of Directors or twenty five ( 25%) percent of the members of the organization, the president shall cause a special meeting to be called but such request must be made in writing at least ten (10) days before the requested scheduled date. No other business but that specified in the notice may be transacted at such special meeting without the unanimous consent of all present at such meeting. 
+
+#### Article V. VOTING.
+At all meetings, except for the election of officers and directors, all votes shall be by voice. For election of officers, ballots shall be provided and there shall not appear any place on such ballot that might tend to indicate the person who cast such ballot. At any regular or special meeting, if a majority so requires, any question may be voted upon in the manner and style provided for election of officers and directors. At all votes by ballot the chairman of such meeting shall, prior to the commencement of balloting, appoint a committee of three who shall act as "Inspectors of Election" and who shall, at the conclusion of such balloting, certify in writing to the Chairman the results and the certified copy shall be physically affixed in the minute book to the minutes of that meeting. No inspector of election shall be a candidate for office or shall be personally interested in the question voted upon. 
+
+#### Article VI. ORDER OF BUSINESS.
+1. Roll Call / Call to Order
+2. Reading of the Minutes of the preceding meeting or Distribution of Meeting Notes
+3. New Business OR SPEAKERS.
+4. Old and Unfinished Business.
+5. Reports of Committees AND CITY OFFICIALS.
+6. PUBLIC COMMENTS.
+7. Adjournments. 
+
+#### Article VII. EXECUTIVE COMMITTEE.
+The business of this organization shall be managed by an EXECUTIVE COMMITTEE consisting of 3 members, together with the officers of this organization. [FOLLOWING CLAUSE DOESN'T FEEL NECESSARY: At least one of the directors elected shall be a resident of the State of California and a citizen of the United States.] The COMMITTEE MEMBERS to be chosen for the ensuing year shall be chosen at the annual meeting of this organization in the same manner and style as the officers of this organization and they shall serve for a term of TWO years. The EXECUTIVE COMMITTEE shall have the control and management of the affairs and business of this organization. Such COMMITTEE shall only act in the name of the organization when it shall be regularly convened by its chairman after due notice to all the COMMITTEE MEMBERS of such meeting. Seventy five ( 75%) percent of the members of the EXECUTIVE COMMITTEE shall constitute a quorum and the meetings of the EXECUTIVE COMMITTEE shall be held regularly on the [DATE]. Each COMMITTEE MEMBER shall have one vote and such voting may not be done by proxy. The EXECUTIVE COMMITTEE may make such rules and regulations covering its meetings as it may in its discretion determine necessary. Vacancies in the EXECUTIVE COMMITTEE shall be filled by a vote of the majority of the remaining members of the COMMITTEE for the balance of the year. The President of the organization by virtue of his office shall be Chairman of the EXECUTIVE COMMITTEE. The EXECUTIVE COMMITTEE shall select from one of their members a secretary. A director may be removed when sufficient cause exists for such removal. The EXECUTIVE COMMITTEE may entertain charges against any director OR OFFICER. A director may be represented by counsel upon any removal hearing. The EXECUTIVE COMMITTEE shall adopt such rules for this hearing as it may in its discretion consider necessary for the best interests of the organization. 
+
+#### Article VIII. OFFICERS.
+The initial officers of the organization shall be as follows: CHAIR Vice CHAIR Secretary Treasurer THE CHAIR SHALL --Determine organizational goals and work with Executive Committee to implement organizational goals. --Preside over general membership meetings and Executive Committee meetings. --Determine the agendas of such meetings and work with officers to confirm speakers. --Sign, along with the secretary or other proper officer of the organization, any instruments which need to be signed. --Perform any duties incident to the office of chair and as prescribed by the Executive committee from time to time. Vice Chair SHALL --In the absence of the CHAIR, the vice chair shall perform the duties of the chair, and shall have all powers and subject to the restrictions upon the chair. --Act as a liaison between the Association, city agencies and other organizations relevant to the Association, as prescribed by the Executive Committee. --Perform any duties incident to the office of chair and as prescribed by the Executive committee from time to time. Secretary SHALL --Keep minutes of membership and Executive committee meetings in an Association minute book. --Be responsible for website, email and snail mail communications of the Association. --Ensure that notices are duly given in accordance with the bylaws or as required by law. --Be the custodian of corporate records. â€“ Work with Chair to arrange speakers. Treasurer SHALL --Be responsible for all funds/moneys of the Association, including the tracking of such funds/moneys and monitoring the Association's financial reports. --Receive and give receipts for funds/moneys payable to or due from the Association from any source, and deposit funds/moneys in appropriate depositories. --Develop and present Association budget at the beginning of fiscal year, and perform and present yearly accounting of all Association funds and moneys at the end of each fiscal year. --Manage applications for moneys and grants on the Association's behalf, and prepare reports (with separate accounting for monies received and spent for specific purposes) for submittal to necessary agencies, including city, nonprofit and tax-related agencies. --Play a lead role in Association fundraising efforts and efforts to increase membership dues, including sending annual membership invoices and corresponding with donors. Officers shall by virtue of their office be members of the Executive committee. 
+
+#### Article IX. SALARIES.
+No officer OR EXECUTIVE COMMITTEE MEMBER shall for reason of his office be entitled to receive any salary or compensation. 
+
+#### Article X. COMMITTEES.
+All committees of this organization shall be appointed by the EXECUTIVE COMMITTEE and their term of office shall be for a period of one year or less if sooner terminated by the action of the Board of Directors. The permanent committees shall be: Land Use / Planning Beautification Special Events. 
+
+#### Article XI. DUES.
+The dues of this organization shall be $ 10 per annum for resident or interested citizen, $35 per annum for commercial establishments, and $100 per annum per bar or entertainment establishment and shall be payable on JANUARY 1 OF EACH YEAR. PARTIAL-YEAR MEMBERSHIP DUES ARE THE SAME. 
+
+#### Article XII. AMENDMENTS.
+These By-Laws may be altered, amended, repealed or added to by an affirmative vote of not less than fifty one (51%) percent of the members. 
